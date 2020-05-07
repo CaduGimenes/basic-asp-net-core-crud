@@ -18,8 +18,8 @@ This project aims to perform the four basic operations necessary to build a syst
 
 To change the Connection String, you need to change the **appsettings.json** file, located at:
 
-├── BasicCrud 
-│ ├── appsettings.json
+> ├── BasicCrud  
+> │ ├── appsettings.json
 
 In **appsettings.json** update "MyConnection" value with your database connection string.
 
